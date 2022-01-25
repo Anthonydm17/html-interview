@@ -38,7 +38,7 @@
 </ol>
 <br><br><br>
 <h1>
-    Ezekiel Garcia Scott</c>
+    Ezekiel Garcia Scott
 </h1>
 <br><br>
 <div style="text-align:center">
