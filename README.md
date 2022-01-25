@@ -5,7 +5,7 @@
     </head>
 <body>
     <h1>
-        Goncalo Santos</c>
+        Goncalo Santos
     </h1>
 
 <div style="text-align:center">
